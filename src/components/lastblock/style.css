@@ -1,0 +1,125 @@
+.lastMain{
+    position: absolute;
+    width: 1519px;
+    height: 800px;
+    left: 0px;
+    top: 2630px;
+    background: #2A2A2A;
+}
+.portfolio{
+    top: 100px;
+    position: absolute;
+    width: 268px;
+    height: 54px;
+    left: 626px;
+    font-family: 'NEXT ART';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 54px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+a{
+    cursor: pointer;
+}
+a:hover{
+    border-bottom: 1px solid #E2A300;
+}
+a:active{
+    border-bottom: 1px solid #E2A300;
+}
+.projectOne{
+    box-sizing: border-box;
+    position: absolute;
+    width: 670px;
+    height: 400px;
+    left: 50px;
+    top: 300px;
+    background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+    box-shadow: 0px 4px 15px rgba(27, 27, 27, 0.28);
+    border-radius: 29px;
+}
+.photoProjectOne{
+    width: 600px;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 29px;
+}
+
+
+.projectTwo{
+    box-sizing: border-box;
+    position: absolute;
+    width: 670px;
+    height: 400px;
+    left: 790px;
+    top: 300px;
+    background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+    box-shadow: 0px 4px 15px rgba(27, 27, 27, 0.28);
+    border-radius: 29px;
+}
+.krypto{
+    text-decoration: none;
+    color: #E4E4E4;
+    font-size: 30px;
+    position: absolute;
+    top: 335px;
+    left: 300px;
+}
+
+
+
+.footer{
+    position: absolute;
+    width: 1519px;
+    height: 238px;
+    top:800px;
+    background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+}
+.informationOnHeader{
+    width: 80px;
+    height: 21px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #E4E4E4;
+    flex: none;
+    margin-top: 20px;
+    margin-left: 500px;
+
+}
+.informationOnHeader > li {
+    font-family: 'Arodora Pro';
+    list-style-type: none;
+    padding-top: 30px;
+}
+.contactWithMe{
+
+    width: 344px;
+    height: 21px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: #E4E4E4;
+    flex: none;
+    margin-top: -13px;
+    margin-left: 700px;
+}
+.copy{
+    position: absolute;
+    width: 226px;
+    height: 21px;
+    left: 1087px;
+    top: 190px;
+    font-family: 'Arodora Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    color: #E4E4E4;
+}

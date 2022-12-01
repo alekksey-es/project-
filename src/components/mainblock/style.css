@@ -1,0 +1,215 @@
+.main{
+    width: 1519px;
+    height: 800px;
+    background: #2A2A2A;
+}
+.header{
+    padding-top: 40px;
+}
+.homePage{
+    margin-left: 575px;
+    font-weight: 300;
+    font-size: 18px;
+    color: #E4E4E4;
+}
+.aboutPage{
+    margin-left: 100px;
+    font-weight: 300;
+    font-size: 18px;
+    color: #E4E4E4;
+}
+.portfolioPage{
+    margin-left: 100px;
+    font-weight: 300;
+    font-size: 18px;
+    color: #E4E4E4;
+}
+.contactPage{
+    margin-left: 100px;
+    font-weight: 300;
+    font-size: 18px;
+    color: #E4E4E4;
+}
+.textContent > h1{
+    position: absolute;
+    width: 205px;
+    height: 39px;
+    left: 275px;
+    top: 268px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 54px;
+    display: flex;
+    align-items: center;
+    color: #E4E4E4;
+}
+
+.textContent > h2{
+    position: absolute;
+    width: 447px;
+    height: 136px;
+    left: 275px;
+    top: 300px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 82px;
+    display: flex;
+    align-items: center;
+    color: #E4E4E4;
+}
+.textContent > p{
+    position: absolute;
+    width: 430px;
+    height: 74px;
+    left: 275px;
+    top: 497px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    color: #E4E4E4;
+}
+.elipse{
+    border-radius: 100%;
+    box-sizing: border-box;
+    position: absolute;
+    width: 575px;
+    height: 575px;
+    left: 900px;
+    top: 212.47px;
+    border: 67px solid #00C4F0;
+    filter: drop-shadow(0px 0px 152px rgba(0, 196, 240, 0.42));
+}
+.man{
+    position: absolute;
+    width: 456px;
+    height: 633.53px;
+    left: 975px;
+    top: 153.47px;
+}
+.head{
+    position: absolute;
+    width: 357px;
+    height: 286px;
+    left: 975.82px;
+    top: 133.82px;
+    transform: rotate(-6.57deg);
+}
+.ui{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 1319px;
+    top: 212px;
+    background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+    border-radius: 100%;
+}
+.ui > p{
+    position: absolute;
+    width: 37px;
+    height: 41px;
+    left: 25px;
+    top: -13px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    color: #00C4F0;
+    font-family: 'NEXT ART';
+}
+.front{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 919px;
+    top: 235px;
+    background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+    border-radius: 100%;
+}
+.front > p{
+    position: absolute;
+    width: 37px;
+    height: 41px;
+    left: 25px;
+    top:-14px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    color: #00C4F0;
+    font-family: 'NEXT ART';
+}
+.ux{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 845px;
+    top: 410px;
+    background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+    border-radius: 100%;
+}
+.ux > p{
+    position: absolute;
+    width: 37px;
+    height: 41px;
+    left: 17px;
+    top:-14px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    color: #00C4F0;
+    font-family: 'NEXT ART';
+}
+button{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #000000;
+
+    cursor: pointer;
+    border: none;
+    position: absolute;
+    width: 200px;
+    height: 47px;
+    left: 275px;
+    top: 630px;
+    background: linear-gradient(87.32deg, #E2A300 4.47%, #E29500 95.53%);
+    box-shadow: 0px 2px 13px rgba(226, 158, 0, 0.48);
+    border-radius: 6px;
+}
+.ps{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 876px;
+    top: 598px;
+    background: linear-gradient(130.68deg, #414141 0%, #2D2D2D 100.52%);
+    border-radius: 100%;
+}
+.ps > p{
+    font-family: 'NEXT ART';
+    position: absolute;
+    width: 37px;
+    height: 41px;
+    left: 25px;
+    top:-14px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    color: #00C4F0;
+}
